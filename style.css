@@ -56,7 +56,8 @@ body{
     line-height: 1.125rem;
 }
 .content{
-    display:hidden;
+    display:none;
+    visibility: hidden;
 }
 .container{
     display: grid;
